@@ -10,7 +10,7 @@
 The single-player story follows the elite military squad, "Bad Company," as they embark on a mission to stop a potential global war. With thrilling missions set in diverse locations, the campaign offers a cinematic experience filled with explosive battles and engaging storytelling.
 
 ### 2. **Multiplayer Mode**
-The heart of *[Battlefield Bad Company 2](https://takeitpc.com/battlefield-bad-company-2/)* lies in its multiplayer mode. Players can engage in massive battles across various maps, utilizing teamwork, strategy, and vehicles to dominate the battlefield. Key multiplayer features include:
+The heart of *Battlefield Bad Company 2* lies in its multiplayer mode. Players can engage in massive battles across various maps, utilizing teamwork, strategy, and vehicles to dominate the battlefield. Key multiplayer features include:
 - **Destruction 2.0**: A revolutionary physics engine allowing buildings and cover to be destroyed dynamically.
 - **Vehicle Combat**: Tanks, helicopters, and jeeps enhance strategic gameplay.
 - **Class-Based System**: Players can choose from Assault, Engineer, Medic, and Recon classes, each with unique abilities.
