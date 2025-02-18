@@ -2,7 +2,7 @@
 
 ## Introduction
 
-*Battlefield: Bad Company 2* is a first-person shooter developed by DICE and published by Electronic Arts. Released in 2010, the game is a sequel to *Battlefield: Bad Company* and is widely regarded as one of the best multiplayer FPS games of its era. Featuring intense combat, destructible environments, and a gripping single-player campaign, the game has maintained a strong following among fans of the *Battlefield* franchise.
+*[Battlefield: Bad Company 2](https://takeitpc.com/battlefield-bad-company-2/)* is a first-person shooter developed by DICE and published by Electronic Arts. Released in 2010, the game is a sequel to *Battlefield: Bad Company* and is widely regarded as one of the best multiplayer FPS games of its era. Featuring intense combat, destructible environments, and a gripping single-player campaign, the game has maintained a strong following among fans of the *Battlefield* franchise.
 
 ## Gameplay and Features
 
